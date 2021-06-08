@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @harshmathur1990
 - 👀 I’m interested in solar physics
-- 🌱 I’m currently working on instrumentation projects, data visualisation.
+- 🌱 I’m currently working on instrumentation projects, data visualisation and Numerical Simulation / Radiative Transfer.
 - 📫 write to me on Linkedin @harshmathur1990
 
 <!---
